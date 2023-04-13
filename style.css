@@ -1,0 +1,15 @@
+.content {
+    text-align: center;
+}
+
+.button {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.result {
+    max-height: 20px;
+    max-width: 900px;
+    text-align: center;
+}
